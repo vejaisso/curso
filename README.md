@@ -1,2 +1,2 @@
-# Material Didático para o curso de Desenvolvimento de Sistemas - Etec Bento Quirino (Campinas)
+# Material Didático para o curso de Desenvolvimento de Sistemas
 Todos os direitos reservados (2025)
